@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a8c2c1-dc0f-472a-8494-2febd3339468" name="Changes" comment="added enum en">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AboutUsPageRu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ContactsPageRu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/EventsPageRu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginUserPageRu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PhotoPageRu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/VideoPageRu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests_ui/RegistrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/helpers/enums/HeaderMenuItemsRu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helpers/enums/HeaderMenuItemsRu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CreateUserPageRu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CreateUserPageRu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPageRu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests_ui/EventsTestsEn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests_ui/EventsTestsEn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests_ui/LoginTestsRu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests_ui/LoginTestsRu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lidiia90&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lidiia90/QA_ShiShi_My.git&quot;,
+    &quot;accountId&quot;: &quot;c9fd29ec-2df3-4d84-8984-7f301217336d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -55,8 +54,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/QA_Auto_Projects/ShiShi/QA_Practice_ShiShi",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lidashpektorovska/GitHub/QA_ShiShi_My",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
